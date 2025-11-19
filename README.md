@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Final-year B.Sc. CS student<br>🐍 Python enthusiast with a love for coding<br>🤖 Obsessed with Machine Learning and AI<br>🚀 Currently mastering ML tech and techniques<br>💡 Always hunting for the next big idea to build and collaborate on
+🎓 First year M.Sc. CS student<br>🐍 Python enthusiast with a love for coding<br>🤖 Obsessed with Machine Learning and AI<br>🚀 Currently mastering ML tech and techniques<br>💡 Always hunting for the next big idea to build and collaborate on
 
 
 ## 🌐 Socials:
